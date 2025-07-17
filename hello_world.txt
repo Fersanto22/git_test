@@ -1,2 +1,3 @@
 # git_test
-probando a añadir texto, confirmarlo y guardarlo.
+probando a añadir texto, confirmarlo y guardarlo.ç
+añadiendo más texto el día 17/07/2025
